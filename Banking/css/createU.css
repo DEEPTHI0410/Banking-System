@@ -1,0 +1,31 @@
+header {
+    top: 0;
+}
+
+footer {
+    bottom: 0;
+}
+
+
+body {
+    background: #c9ccd1;
+}
+
+.form-style input {
+    border: 0;
+    height: 50px;
+    border-radius: 0;
+    border-bottom: 1px solid #ebebeb;
+}
+
+.form-style input:focus {
+    border-bottom: 1px solid #0e1012;
+    box-shadow: none;
+    outline: 0;
+    background-color: #ebebeb;
+}
+
+
+button {
+    height: 50px;
+}

@@ -1,0 +1,37 @@
+/* .info {
+    padding-top: 200px;
+}
+
+.first {
+    width: 300px;
+    height: 300px;
+}
+
+.second {
+    width: 300px;
+    height: 300px;
+    padding-left: 350px;
+} */
+
+.float-container {
+    padding-top: 130px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    height: 350px;
+}
+
+.imageBank {
+    padding-bottom: 20px;
+}
+
+.info {
+    padding-top: 150px;
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+}
